@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Dishi Neekhra 👋<br><br>🎓 Second-year student<br>🚀 Currently learning Data Structures & Algorithms and Frontend Development<br><br>🌱 Currently Focusing On<br><br><br>Strengthening Data Structures & Algorithms<br>Building projects with HTML, CSS & JavaScript<br>Exploring frontend development fundamentals<br><br><br><br>📫 Let's Connect<br><br>Feel free to explore my repositories and reach out!
+Hi, I'm Dishi Neekhra 👋<br>🎓 Second-year student <br>🚀 Currently learning Data Structures & Algorithms and Frontend Development<br><br>🌱 Currently Focusing On:<br>Strengthening Data Structures & Algorithms<br>Building projects with HTML, CSS & JavaScript<br>Exploring frontend development fundamentals<br><br>📫 Let's Connect<br>Feel free to explore my repositories and reach out!
 
 
 ## 🌐 Socials:
