@@ -16,6 +16,3 @@ Hi, I'm Dishi Neekhra 👋<br>🎓 Second-year student <br>🚀 Currently learni
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dishi-glitch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishi-glitch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
