@@ -34,48 +34,24 @@ I am a second-year engineering student navigating the spaces between complex pro
     </td>
   </tr>
 </table>
----
+---# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/C++-%239b5de5.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2300f5d4?style=for-the-badge&logo=python&logoColor=050510) 
+<br> 
 
-### 📊 Developer Analytics & Insights
+<!-- Snake Game Repo View -->
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/Dishi-glitch/Dishi-glitch/output/snake.svg" alt="Snake animation" />
+</div>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- Left Column: Core Performance Metrics & Rank -->
-    <td width="50%" align="center" valign="top">
-      <img src="./stats.svg" alt="Dishi's Github Activity Statistics" width="95%" />
-    </td>
-    <!-- Right Column: Interactive Code Distribution Architecture -->
-    <td width="50%" align="center" valign="top">
-      <img src="./langs.svg" alt="Language Stack Distribution Balance" width="95%" />
-    </td>
-  </tr>
-</table>
+# 📊 GitHub Stats:
 
----
+<!-- General Stats Card: Dark background with neon teal titles/icons and purple text -->
+<img src="https://github-readme-stats.shion.dev/api?username=Dishi-glitch&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=9b5de5&hide_border=false" alt="Dishi's GitHub Stats" /><br/>
 
+<!-- Streak Stats Card: Matched layout with deep background and teal/purple accents -->
+<img src="https://streak-stats.demolab.com/?user=Dishi-glitch&background=0d1117&title=00f5d4&ring=9b5de5&fire=00f5d4&currStreakNum=9b5de5&sideLabels=9b5de5" alt="Dishi's Streak Stats" /><br/>
 
-### 🎮 Activity Stream
-<p align="center">
-  <!-- Pulling the compiled dark-theme snake directly from the output branch -->
-  <img src="https://raw.githubusercontent.com/Dishi-glitch/Dishi-glitch/output/snake.svg" alt="Contribution Grid Snake Timeline Animation" width="100%" />
-</p>
----
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- Left Side: Interactive Status Badges/Connections -->
-    <td width="65%" valign="middle">
-      <h3>🤝 Let's Connect & Collaborate</h3>
-      <p>I'm always looking to collaborate on automation pipelines, algorithmic optimization, or responsive front-end tools. Check out my repositories, or let's chat about building clean software.</p>
-      <br />
-      <p>
-        <a href="https://github.com/Dishi-glitch"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
-        <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connection" /></a>
-      </p>
-    </td>
-    <!-- Right Side: Swinging Status Pass Mockup Display -->
-    <td width="35%" align="center" valign="middle">
-      <img src="./lanyard.svg" alt="Live Status Swinging Lanyard ID Pass" width="180px" />
-    </td>
+<!-- Top Languages Card: Compact layout showing your top language distribution in theme -->
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dishi-glitch&bg_color=0d1117&title_color=00f5d4&text_color=9b5de5&hide_border=false&layout=compact" alt="Dishi's Top Languages" />
   </tr>
 </table>
