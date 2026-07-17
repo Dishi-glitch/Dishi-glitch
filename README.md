@@ -52,11 +52,6 @@
     <clipPath id="clip1"><rect id="r1" x="85" y="215" width="0" height="40"><animate attributeName="width" values="0;0;350;350;0;0" keyTimes="0;0.01;0.22;0.31;0.33;1" dur="15s" repeatCount="indefinite" /></rect></clipPath>
     <clipPath id="clip2"><rect id="r2" x="85" y="215" width="0" height="40"><animate attributeName="width" values="0;0;0;380;380;0;0" keyTimes="0;0.33;0.34;0.55;0.64;0.66;1" dur="15s" repeatCount="indefinite" /></rect></clipPath>
     <clipPath id="clip3"><rect id="r3" x="85" y="215" width="0" height="40"><animate attributeName="width" values="0;0;0;320;320;0" keyTimes="0;0.66;0.67;0.88;0.97;1" dur="15s" repeatCount="indefinite" /></rect></clipPath>
-
-    <!-- Right Side Profile Mask -->
-    <clipPath id="avatarClip">
-      <circle cx="920" cy="240" r="160" />
-    </clipPath>
   </defs>
 
   <style>
@@ -130,7 +125,7 @@
       </rect>
     </g>
 
-    <!-- Technology Focus Pills (With JavaScript Tag Kept) -->
+    <!-- Technology Focus Pills -->
     <g transform="translate(85, 290)">
       <!-- Row 1 -->
       <g transform="translate(0, 0)">
@@ -169,31 +164,29 @@
       </g>
     </g>
 
-    <!-- Footer call to action info -->
+    <!-- Footer info -->
     <g transform="translate(85, 410)" opacity="0.6">
       <text font-size="14" font-weight="500" fill="#94a3b8" letter-spacing="0.5">📫 LET'S CONNECT · Explore my repositories &amp; reach out!</text>
     </g>
   </g>
 
-  <!-- RIGHT SIDE PICTURE GRAPHIC (Image completely removed, text styling intact) -->
+  <!-- RIGHT SIDE DESIGN BLOCK -->
   <g class="anim-avatar">
     <!-- Glowing Outer Accent Rings -->
     <circle class="profile-ring" cx="920" cy="240" r="165" fill="none" stroke-width="2" opacity="0.5" filter="url(#glow)"/>
     <circle cx="920" cy="240" r="160" fill="#111126" stroke="#1e1e38" stroke-width="4" />
     
-    <!-- Image Canvas Container with masking -->
-    <g clip-path="url(#avatarClip)">
-      <g transform="translate(760, 80)" opacity="0.08">
-        <path d="M 0,0 L 320,320 M 40,0 L 360,320 M 80,0 L 400,320" stroke="#ffffff" stroke-width="2"/>
-      </g>
-      
-      <!-- Inner text profile element instead of an image -->
-      <text x="920" y="255" font-family="system-ui, sans-serif" font-weight="800" font-size="48" fill="url(#nameg)" text-anchor="middle" filter="url(#glow)">&lt;/&gt;</text>
-
-      <!-- High-tech foreground particles -->
-      <circle cx="820" cy="140" r="3" fill="#f43f5e" filter="url(#glow)" opacity="0.7"/>
-      <circle cx="1020" cy="310" r="4" fill="#3b82f6" filter="url(#glow)" opacity="0.6"/>
+    <!-- Canvas Grid Lines -->
+    <g transform="translate(760, 80)" opacity="0.08">
+      <path d="M 0,0 L 320,320 M 40,0 L 360,320 M 80,0 L 400,320" stroke="#ffffff" stroke-width="2"/>
     </g>
+    
+    <!-- Inner Stylized Text Element instead of image -->
+    <text x="920" y="255" font-family="system-ui, sans-serif" font-weight="800" font-size="48" fill="url(#nameg)" text-anchor="middle" filter="url(#glow)">&lt;/&gt;</text>
+
+    <!-- Foreground Tech Particles -->
+    <circle cx="820" cy="140" r="3" fill="#f43f5e" filter="url(#glow)" opacity="0.7"/>
+    <circle cx="1020" cy="310" r="4" fill="#3b82f6" filter="url(#glow)" opacity="0.6"/>
     
     <!-- Outer Decorative Tech Bracket Lines -->
     <path d="M 730,200 L 715,200 L 715,140 L 740,140" fill="none" stroke="#334155" stroke-width="2.5" />
