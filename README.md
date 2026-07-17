@@ -1,79 +1,202 @@
-<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05050a" />
+      <stop offset="40%" stop-color="#0b0b1e" />
+      <stop offset="100%" stop-color="#05050a" />
+    </linearGradient>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
-  &lt;img src="banner.svg?v=1" alt="Dishi Neekhra Banner" width="100%"&gt;
-</picture>
+    <!-- Animated Glow Orbs -->
+    <radialGradient id="orbP" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="orbV" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="orbB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0" />
+    </radialGradient>
 
-<br><br>
+    <!-- Text Name Gradient -->
+    <linearGradient id="nameg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f43f5e">
+        <animate attributeName="stop-color" values="#f43f5e;#ec4899;#a855f7;#3b82f6;#f43f5e" dur="7s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#a855f7">
+        <animate attributeName="stop-color" values="#a855f7;#3b82f6;#f43f5e;#ec4899;#a855f7" dur="7s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#3b82f6">
+        <animate attributeName="stop-color" values="#3b82f6;#f43f5e;#ec4899;#a855f7;#3b82f6" dur="7s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
 
-<!-- Lanyard Badge -->
-&lt;img src="lanyard.svg?v=1" alt="ID Badge" width="200"&gt;
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
 
-<br><br>
+    <!-- Grid Pattern -->
+    <pattern id="dots" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity="0.04" />
+    </pattern>
 
-<!-- Stats Cards -->
-<table>
-  <tr>
-    <td>
-      &lt;img src="stats.svg?v=1" alt="GitHub Stats" width="400"&gt;
-    </td>
-    <td>
-      &lt;img src="langs.svg?v=1" alt="Top Languages" width="400"&gt;
-    </td>
-  </tr>
-</table>
+    <!-- Typewriter / Slider Clip Paths -->
+    <clipPath id="clip1"><rect id="r1" x="85" y="215" width="0" height="40"><animate attributeName="width" values="0;0;350;350;0;0" keyTimes="0;0.01;0.22;0.31;0.33;1" dur="15s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="clip2"><rect id="r2" x="85" y="215" width="0" height="40"><animate attributeName="width" values="0;0;0;380;380;0;0" keyTimes="0;0.33;0.34;0.55;0.64;0.66;1" dur="15s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="clip3"><rect id="r3" x="85" y="215" width="0" height="40"><animate attributeName="width" values="0;0;0;320;320;0" keyTimes="0;0.66;0.67;0.88;0.97;1" dur="15s" repeatCount="indefinite" /></rect></clipPath>
 
-<br>
+    <!-- Right Side Profile Mask -->
+    <clipPath id="avatarClip">
+      <circle cx="920" cy="240" r="160" />
+    </clipPath>
+  </defs>
 
-<!-- Trophies -->
-&lt;img src="trophies.svg?v=1" alt="Trophies" width="500"&gt;
+  <style>
+    .font-sans { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .title { font-weight: 800; font-size: 54px; fill: url(#nameg); filter: drop-shadow(0px 4px 12px rgba(244,63,94,0.15)); }
+    .role-text { font-size: 24px; font-weight: 600; fill: #f8fafc; }
+    .tag-txt { font-size: 13px; font-weight: 600; fill: #94a3b8; }
+    .tag-bg { fill: #111122; stroke: #1e1e38; stroke-width: 1.5px; rx: 8px; }
+    
+    @keyframes pulseGlow {
+      0%, 100% { transform: scale(1) translate(0px, 0px); opacity: 0.4; }
+      33% { transform: scale(1.1) translate(30px, -20px); opacity: 0.6; }
+      66% { transform: scale(0.95) translate(-20px, 40px); opacity: 0.5; }
+    }
+    @keyframes floatGraphic {
+      0%, 100% { transform: translateY(0px) rotate(0deg); }
+      50% { transform: translateY(-10px) rotate(1deg); }
+    }
+    @keyframes pulseRing {
+      0% { r: 165px; opacity: 0.6; stroke: #ec4899; }
+      50% { r: 175px; opacity: 0.3; stroke: #8b5cf6; }
+      100% { r: 165px; opacity: 0.6; stroke: #ec4899; }
+    }
+    
+    .anim-orb1 { animation: pulseGlow 12s infinite ease-in-out; transform-origin: 30% 40%; }
+    .anim-orb2 { animation: pulseGlow 9s infinite ease-in-out alternate; transform-origin: 70% 60%; }
+    .anim-avatar { animation: floatGraphic 6s infinite ease-in-out; transform-box: fill-box; transform-origin: center; }
+    .profile-ring { animation: pulseRing 4s infinite ease-in-out; }
+  </style>
 
-<br><br>
+  <!-- Background Layer -->
+  <rect width="100%" height="100%" fill="url(#bg)" />
 
-## 📊 Contribution Graph
+  <!-- Ambient Moving Orbs -->
+  <circle class="anim-orb1" cx="200" cy="150" r="350" fill="url(#orbP)" />
+  <circle class="anim-orb2" cx="850" cy="300" r="400" fill="url(#orbV)" />
+  <circle cx="550" cy="240" r="300" fill="url(#orbB)" opacity="0.6" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dishi-glitch/Dishi-glitch/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dishi-glitch/Dishi-glitch/output/snake-light.svg">
-  &lt;img src="https://raw.githubusercontent.com/Dishi-glitch/Dishi-glitch/output/snake.svg" alt="Snake Animation" width="100%"&gt;
-</picture>
+  <!-- Digital Dot Overlay -->
+  <rect width="100%" height="100%" fill="url(#dots)" />
 
-<br><br>
+  <!-- LEFT CONTENT BLOCK -->
+  <g transform="translate(0, 0)" class="font-sans">
+    <!-- Introduction Status -->
+    <g transform="translate(85, 95)">
+      <rect width="170" height="30" rx="15" fill="#1e1b4b" fill-opacity="0.6" stroke="#3730a3" stroke-width="1"/>
+      <circle cx="15" cy="15" r="4" fill="#10b981" filter="url(#glow)"/>
+      <text x="32" y="20" font-size="13" font-weight="700" fill="#a5b4fc" letter-spacing="0.5">SECOND-YEAR STUDENT</text>
+    </g>
 
-## 🚀 Featured Projects
+    <!-- Main Title -->
+    <text x="85" y="175" class="title">Hi, I'm Dishi Neekhra</text>
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Project 1](https://github.com/Dishi-glitch/project1) | A cool full-stack web app | React, Node.js, MongoDB |
-| [Project 2](https://github.com/Dishi-glitch/project2) | AI-powered tool | Python, TensorFlow, Flask |
-| [Project 3](https://github.com/Dishi-glitch/project3) | Frontend UI library | React, Tailwind CSS, Framer Motion |
+    <!-- Sliding Subtitles Loop -->
+    <g class="role-text">
+      <g clip-path="url(#clip1)">
+        <text x="85" y="242" fill="#f8fafc">Exploring Data Structures &amp; Algorithms</text>
+      </g>
+      <g clip-path="url(#clip2)">
+        <text x="85" y="242" fill="#3b82f6">Building with React &amp; Next.js</text>
+      </g>
+      <g clip-path="url(#clip3)">
+        <text x="85" y="242" fill="#ec4899">Exploring Generative AI</text>
+      </g>
+      
+      <!-- Static Cursor Blinker -->
+      <rect x="85" y="218" width="2" height="28" fill="#a855f7">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+        <animate attributeName="x" values="85;85;435;435;85;85;85;465;465;85;85;85;405;405;85" 
+                 keyTimes="0;0.01;0.22;0.31;0.33;0.34;0.55;0.64;0.66;0.67;0.88;0.97;1" dur="15s" repeatCount="indefinite"/>
+      </rect>
+    </g>
 
-<br>
+    <!-- Technology Focus Pills (With JavaScript Tag Kept) -->
+    <g transform="translate(85, 290)">
+      <!-- Row 1 -->
+      <g transform="translate(0, 0)">
+        <rect class="tag-bg" width="60" height="32" />
+        <text class="tag-txt" x="30" y="20" text-anchor="middle">HTML</text>
+      </g>
+      <g transform="translate(72, 0)">
+        <rect class="tag-bg" width="54" height="32" />
+        <text class="tag-txt" x="27" y="20" text-anchor="middle">CSS</text>
+      </g>
+      <g transform="translate(138, 0)">
+        <rect class="tag-bg" width="102" height="32" />
+        <text class="tag-txt" x="51" y="20" text-anchor="middle">JavaScript</text>
+      </g>
+      <g transform="translate(252, 0)">
+        <rect class="tag-bg" width="66" height="32" />
+        <text class="tag-txt" x="33" y="20" text-anchor="middle">React</text>
+      </g>
+      <g transform="translate(330, 0)">
+        <rect class="tag-bg" width="76" height="32" />
+        <text class="tag-txt" x="38" y="20" text-anchor="middle">Next.js</text>
+      </g>
 
-## 📫 Connect With Me
+      <!-- Row 2 -->
+      <g transform="translate(0, 44)">
+        <rect class="tag-bg" width="124" height="32" />
+        <text class="tag-txt" x="62" y="20" text-anchor="middle">Framer Motion</text>
+      </g>
+      <g transform="translate(136, 44)">
+        <rect class="tag-bg" width="120" height="32" stroke="#3b82f6" fill="#0c1e36" />
+        <text class="tag-txt" x="60" y="20" text-anchor="middle" fill="#60a5fa">Generative AI</text>
+      </g>
+      <g transform="translate(268, 44)">
+        <rect class="tag-bg" width="60" height="32" stroke="#a855f7" fill="#231336" />
+        <text class="tag-txt" x="30" y="20" text-anchor="middle" fill="#c084fc">DSA</text>
+      </g>
+    </g>
 
-<a href="mailto:dishineekhra23@gmail.com">
-  &lt;img src="https://img.shields.io/badge/Email-dishineekhra23%40gmail.com-00b4d8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"&gt;
-</a>
-<a href="https://github.com/Dishi-glitch">
-  &lt;img src="https://img.shields.io/badge/GitHub-@Dishi--glitch-0077b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"&gt;
-</a>
-<a href="https://linkedin.com/in/dishi-neekhra">
-  &lt;img src="https://img.shields.io/badge/LinkedIn-Dishi%20Neekhra-023e8a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"&gt;
-</a>
+    <!-- Footer call to action info -->
+    <g transform="translate(85, 410)" opacity="0.6">
+      <text font-size="14" font-weight="500" fill="#94a3b8" letter-spacing="0.5">📫 LET'S CONNECT · Explore my repositories &amp; reach out!</text>
+    </g>
+  </g>
 
-<br><br>
+  <!-- RIGHT SIDE PICTURE GRAPHIC (Image completely removed, text styling intact) -->
+  <g class="anim-avatar">
+    <!-- Glowing Outer Accent Rings -->
+    <circle class="profile-ring" cx="920" cy="240" r="165" fill="none" stroke-width="2" opacity="0.5" filter="url(#glow)"/>
+    <circle cx="920" cy="240" r="160" fill="#111126" stroke="#1e1e38" stroke-width="4" />
+    
+    <!-- Image Canvas Container with masking -->
+    <g clip-path="url(#avatarClip)">
+      <g transform="translate(760, 80)" opacity="0.08">
+        <path d="M 0,0 L 320,320 M 40,0 L 360,320 M 80,0 L 400,320" stroke="#ffffff" stroke-width="2"/>
+      </g>
+      
+      <!-- Inner text profile element instead of an image -->
+      <text x="920" y="255" font-family="system-ui, sans-serif" font-weight="800" font-size="48" fill="url(#nameg)" text-anchor="middle" filter="url(#glow)">&lt;/&gt;</text>
 
-<!-- Profile Views Counter -->
-&lt;img src="https://komarev.com/ghpvc/?username=Dishi-glitch&color=00b4d8&style=flat-square" alt="Profile Views"&gt;
-
-<br>
-
----
-
-⭐️ From [Dishi-glitch](https://github.com/Dishi-glitch)
-
-</div>
-
+      <!-- High-tech foreground particles -->
+      <circle cx="820" cy="140" r="3" fill="#f43f5e" filter="url(#glow)" opacity="0.7"/>
+      <circle cx="1020" cy="310" r="4" fill="#3b82f6" filter="url(#glow)" opacity="0.6"/>
+    </g>
+    
+    <!-- Outer Decorative Tech Bracket Lines -->
+    <path d="M 730,200 L 715,200 L 715,140 L 740,140" fill="none" stroke="#334155" stroke-width="2.5" />
+    <path d="M 1110,280 L 1125,280 L 1125,340 L 1100,340" fill="none" stroke="#334155" stroke-width="2.5" />
+  </g>
+</svg>
