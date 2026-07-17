@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00b4d8"/>
+      <stop offset="100%" stop-color="#023e8a"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="400" height="300" fill="#0a1929" rx="16"/>
+  
+  <!-- Rank Ring -->
+  <g transform="translate(80, 130)">
+    <circle cx="0" cy="0" r="60" fill="none" stroke="#0d2137" stroke-width="8"/>
+    <circle cx="0" cy="0" r="60" fill="none" stroke="url(#blueGrad)" stroke-width="8" stroke-dasharray="377" stroke-dashoffset="377" stroke-linecap="round">
+      <animate attributeName="stroke-dashoffset" values="377;113" dur="2s" fill="freeze"/>
+    </circle>
+    <text x="0" y="-10" text-anchor="middle" font-family="'Georgia', serif" font-size="28" font-weight="bold" fill="#00b4d8">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.5s" fill="freeze"/>
+      A
+    </text>
+    <text x="0" y="15" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#80b0c8">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.8s" fill="freeze"/>
+      RANK
+    </text>
+  </g>
+  
+  <!-- Stats Rows -->
+  <g font-family="'Courier New', monospace" font-size="13">
+    <!-- Repos -->
+    <g transform="translate(180, 80)">
+      <text x="0" y="0" fill="#80b0c8" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2s" fill="freeze"/>
+        Repositories
+      </text>
+      <text x="180" y="0" fill="#00b4d8" text-anchor="end" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.2s" fill="freeze"/>
+        12
+      </text>
+      <rect x="0" y="8" width="180" height="4" rx="2" fill="#0d2137" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.4s" fill="freeze"/>
+      </rect>
+      <rect x="0" y="8" width="0" height="4" rx="2" fill="url(#blueGrad)" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.6s" fill="freeze"/>
+        <animate attributeName="width" values="0;126" dur="1s" begin="2.6s" fill="freeze"/>
+      </rect>
+    </g>
+    
+    <!-- Stars -->
+    <g transform="translate(180, 120)">
+      <text x="0" y="0" fill="#80b0c8" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.8s" fill="freeze"/>
+        Stars
+      </text>
+      <text x="180" y="0" fill="#00b4d8" text-anchor="end" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="3s" fill="freeze"/>
+        8
+      </text>
+      <rect x="0" y="8" width="180" height="4" rx="2" fill="#0d2137" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.2s" fill="freeze"/>
+      </rect>
+      <rect x="0" y="8" width="0" height="4" rx="2" fill="url(#blueGrad)" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.4s" fill="freeze"/>
+        <animate attributeName="width" values="0;90" dur="1s" begin="3.4s" fill="freeze"/>
+      </rect>
+    </g>
+    
+    <!-- Contributions -->
+    <g transform="translate(180, 160)">
+      <text x="0" y="0" fill="#80b0c8" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.6s" fill="freeze"/>
+        Contributions
+      </text>
+      <text x="180" y="0" fill="#00b4d8" text-anchor="end" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.8s" fill="freeze"/>
+        156
+      </text>
+      <rect x="0" y="8" width="180" height="4" rx="2" fill="#0d2137" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="4s" fill="freeze"/>
+      </rect>
+      <rect x="0" y="8" width="0" height="4" rx="2" fill="url(#blueGrad)" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.2s" fill="freeze"/>
+        <animate attributeName="width" values="0;108" dur="1s" begin="4.2s" fill="freeze"/>
+      </rect>
+    </g>
+    
+    <!-- Followers -->
+    <g transform="translate(180, 200)">
+      <text x="0" y="0" fill="#80b0c8" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.4s" fill="freeze"/>
+        Followers
+      </text>
+      <text x="180" y="0" fill="#00b4d8" text-anchor="end" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.6s" fill="freeze"/>
+        5
+      </text>
+      <rect x="0" y="8" width="180" height="4" rx="2" fill="#0d2137" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.8s" fill="freeze"/>
+      </rect>
+      <rect x="0" y="8" width="0" height="4" rx="2" fill="url(#blueGrad)" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.3s" begin="5s" fill="freeze"/>
+        <animate attributeName="width" values="0;72" dur="1s" begin="5s" fill="freeze"/>
+      </rect>
+    </g>
+  </g>
+</svg>
