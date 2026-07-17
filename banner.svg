@@ -48,10 +48,9 @@
       <circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity="0.04" />
     </pattern>
 
-    <!-- Typewriter / Slider Clip Paths -->
-    <clipPath id="clip1"><rect id="r1" x="85" y="215" width="0" height="40"><animate attributeName="width" values="0;0;350;350;0;0" keyTimes="0;0.01;0.22;0.31;0.33;1" dur="15s" repeatCount="indefinite" /></rect></clipPath>
-    <clipPath id="clip2"><rect id="r2" x="85" y="215" width="0" height="40"><animate attributeName="width" values="0;0;0;380;380;0;0" keyTimes="0;0.33;0.34;0.55;0.64;0.66;1" dur="15s" repeatCount="indefinite" /></rect></clipPath>
-    <clipPath id="clip3"><rect id="r3" x="85" y="215" width="0" height="40"><animate attributeName="width" values="0;0;0;320;320;0" keyTimes="0;0.66;0.67;0.88;0.97;1" dur="15s" repeatCount="indefinite" /></rect></clipPath>
+    <!-- Typewriter / Slider Clip Paths for Two Roles -->
+    <clipPath id="clip1"><rect id="r1" x="85" y="215" width="0" height="40"><animate attributeName="width" values="0;0;320;320;0;0" keyTimes="0;0.01;0.40;0.48;0.50;1" dur="12s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="clip2"><rect id="r2" x="85" y="215" width="0" height="40"><animate attributeName="width" values="0;0;0;350;350;0" keyTimes="0;0.50;0.51;0.90;0.98;1" dur="12s" repeatCount="indefinite" /></rect></clipPath>
   </defs>
 
   <style>
@@ -107,21 +106,20 @@
 
     <!-- Sliding Subtitles Loop -->
     <g class="role-text">
+      <!-- Gen AI comes first -->
       <g clip-path="url(#clip1)">
-        <text x="85" y="242" fill="#f8fafc">Exploring Data Structures &amp; Algorithms</text>
-      </g>
-      <g clip-path="url(#clip2)">
-        <text x="85" y="242" fill="#3b82f6">Building with React &amp; Next.js</text>
-      </g>
-      <g clip-path="url(#clip3)">
         <text x="85" y="242" fill="#ec4899">Exploring Generative AI</text>
+      </g>
+      <!-- DSA comes second -->
+      <g clip-path="url(#clip2)">
+        <text x="85" y="242" fill="#f8fafc">Exploring Data Structures &amp; Algorithms</text>
       </g>
       
       <!-- Static Cursor Blinker -->
       <rect x="85" y="218" width="2" height="28" fill="#a855f7">
         <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-        <animate attributeName="x" values="85;85;435;435;85;85;85;465;465;85;85;85;405;405;85" 
-                 keyTimes="0;0.01;0.22;0.31;0.33;0.34;0.55;0.64;0.66;0.67;0.88;0.97;1" dur="15s" repeatCount="indefinite"/>
+        <animate attributeName="x" values="85;85;405;405;85;85;435;435;85" 
+                 keyTimes="0;0.01;0.40;0.48;0.50;0.51;0.90;0.98;1" dur="12s" repeatCount="indefinite"/>
       </rect>
     </g>
 
