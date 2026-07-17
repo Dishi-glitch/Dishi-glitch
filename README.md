@@ -15,7 +15,7 @@ I am a second-year engineering student navigating the spaces between complex pro
 * ⚡ **Core Stack:** Structured layouts built with C++, HTML/CSS, JavaScript, React, and Next.js.
 
 ---
----# 💻 Tech Stack:
+# 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-%239b5de5.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2300f5d4?style=for-the-badge&logo=python&logoColor=050510) 
 <br> 
 
