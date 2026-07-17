@@ -32,8 +32,8 @@ I am a second-year engineering student navigating the spaces between complex pro
 <!-- General Stats Card: Pink titles/icons with purple text -->
 <img src="https://github-readme-stats.shion.dev/api?username=Dishi-glitch&bg_color=0d1117&title_color=ff5d8f&icon_color=ff5d8f&text_color=9b5de5&hide_border=false" alt="Dishi's GitHub Stats" /><br/>
 
-<!-- Streak Stats Card: Matched layout with pink and purple accents (Fixed Color Formatting) -->
-<img src="https://streak-stats.demolab.com/?user=Dishi-glitch&background=0d1117&title=%23ff5d8f&ring=%239b5de5&fire=%23ff5d8f&currStreakNum=%239b5de5&sideNums=%23ff5d8f&sideLabels=%239b5de5" alt="Dishi's Streak Stats" /><br/>
+<!-- Streak Stats Card: Matched layout with pink and purple accents (Fixed Text & Date Colors) -->
+<img src="https://streak-stats.demolab.com/?user=Dishi-glitch&background=0d1117&title=%23ff5d8f&ring=%239b5de5&fire=%23ff5d8f&currStreakNum=%239b5de5&sideNums=%23ff5d8f&sideLabels=%239b5de5&dates=%239b5de5" alt="Dishi's Streak Stats" /><br/>
 
 <!-- Top Languages Card: Compact layout showing your top language distribution -->
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dishi-glitch&bg_color=0d1117&title_color=ff5d8f&text_color=9b5de5&hide_border=false&layout=compact" alt="Dishi's Top Languages" />
