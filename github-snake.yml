@@ -30,3 +30,40 @@ jobs:
           publish_branch: output
           destination_dir: .
           keep_files: false
+
+          name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:  # Allows manual trigger
+
+# Add these lines to allow the Action to create and update the output branch
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Dishi-glitch
+          outputs: |
+            dist/snake.svg?palette=github-dark&color_snake=#00b4d8&color_dots=#0a1929,#0d2137,#0077b6,#00b4d8,#023e8a
+            dist/snake-light.svg?palette=github-light&color_snake=#0077b6&color_dots=#ffffff,#e0f0ff,#00b4d8,#0077b6,#023e8a
+          
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          destination_dir: .
+          keep_files: false
