@@ -1,215 +1,108 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 282" width="420" height="282" role="img" aria-label="Top languages">
-
   <defs>
-
     <style><![CDATA[
-
       text { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; }
-
       @keyframes fadeUp { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
-
       @keyframes shineX { 0% { transform: translateX(-140px); } 60%, 100% { transform: translateX(460px); } }
-
       .row { opacity: 0; animation: fadeUp .5s ease forwards; }
-
       .sh { animation: shineX 4s ease-in-out 2.2s infinite; }
-
     ]]></style>
-
     
-
     <!-- Matching Profile Banner Borders/Accents -->
-
     <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
-
       <stop offset="0%" stop-color="#f43f5e">
-
         <animate attributeName="stop-color" values="#f43f5e;#ec4899;#a855f7;#3b82f6;#f43f5e" dur="7s" repeatCount="indefinite" />
-
       </stop>
-
       <stop offset="50%" stop-color="#a855f7">
-
         <animate attributeName="stop-color" values="#a855f7;#3b82f6;#f43f5e;#ec4899;#a855f7" dur="7s" repeatCount="indefinite" />
-
       </stop>
-
       <stop offset="100%" stop-color="#3b82f6">
-
         <animate attributeName="stop-color" values="#3b82f6;#f43f5e;#ec4899;#a855f7;#3b82f6" dur="7s" repeatCount="indefinite" />
-
       </stop>
-
     </linearGradient>
 
-
-
-    <!-- Metallic Card Background Shimmer -->
-
-    <linearGradient id="shg" x1="0" y1="0" x2="1 warm" y2="0">
-
+    <!-- Metallic Card Background Shimmer (Fixed Syntax) -->
+    <linearGradient id="shg" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
-
       <stop offset="50%" stop-color="#fff" stop-opacity=".05"/>
-
       <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
-
     </linearGradient>
-
-
 
     <!-- Digital Matrix Dots Background Pattern -->
-
     <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-
       <circle cx="2" cy="2" r="0.75" fill="#ffffff" fill-opacity="0.03" />
-
     </pattern>
 
-
-
     <!-- Clip Paths for Smooth Render Animations -->
-
     <clipPath id="cardc"><rect x="1" y="1" width="418" height="280" rx="14"/></clipPath>
-
     <clipPath id="stackc"><rect x="20" y="58" width="0" height="11" rx="5.5"><animate attributeName="width" from="0" to="380" dur="1.4s" begin=".4s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/></clipPath>
-
   </defs>
 
-
-
   <!-- Deep Canvas Base & Subtle Dot Pattern Overlays -->
-
   <rect x="1" y="1" width="418" height="280" rx="14" fill="#05050a" />
-
   <rect x="1" y="1" width="418" height="280" rx="14" fill="url(#dots)" />
-
   <rect x="1" y="1" width="418" height="280" rx="14" fill="#111126" fill-opacity="0.6" stroke="url(#tg)" stroke-width="1.5"/>
 
-
-
   <!-- Title Indicator -->
-
   <g transform="translate(0,0)">
-
     <circle cx="26" cy="31" r="3.5" fill="#10b981" />
-
     <text x="40" y="36" font-size="14" font-weight="800" fill="#f8fafc" letter-spacing="0.5">LANGUAGE METRICS</text>
-
   </g>
-
-
 
   <!-- Distribution Combo Stacked Bar -->
-
   <g clip-path="url(#stackc)">
-
     <rect x="20.0" y="58" width="311.6" height="11" fill="#ec4899"/>
-
     <rect x="331.6" y="58" width="45.6" height="11" fill="#3b82f6"/>
-
     <rect x="377.2" y="58" width="15.2" height="11" fill="#a855f7"/>
-
     <rect x="392.4" y="58" width="7.6" height="11" fill="#64748b"/>
-
   </g>
-
-
 
   <!-- ROW 1: HTML -->
-
   <g class="row" style="animation-delay:0.4s">
-
     <circle cx="26" cy="101" r="4.5" fill="#ec4899"/>
-
     <text x="42" y="106" font-size="13" fill="#cbd5e1" font-weight="600">HTML</text>
-
     <text x="396" y="106" text-anchor="end" font-size="13" fill="#ec4899" font-weight="700">82.0%</text>
-
     <rect x="140" y="98" width="170" height="8" rx="4" fill="#1e1e38"/>
-
     <rect x="140" y="98" width="139.4" height="8" rx="4" fill="#ec4899">
-
       <animate attributeName="width" from="0" to="139.4" dur="1.1s" begin="0.5s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-
     </rect>
-
   </g>
-
-
 
   <!-- ROW 2: TypeScript -->
-
   <g class="row" style="animation-delay:0.6s">
-
     <circle cx="26" cy="141" r="4.5" fill="#3b82f6"/>
-
     <text x="42" y="146" font-size="13" fill="#cbd5e1" font-weight="600">TypeScript</text>
-
     <text x="396" y="146" text-anchor="end" font-size="13" fill="#3b82f6" font-weight="700">12.0%</text>
-
     <rect x="140" y="138" width="170" height="8" rx="4" fill="#1e1e38"/>
-
     <rect x="140" y="138" width="20.4" height="8" rx="4" fill="#3b82f6">
-
       <animate attributeName="width" from="0" to="20.4" dur="1.1s" begin="0.7s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-
     </rect>
-
   </g>
-
-
 
   <!-- ROW 3: CSS -->
-
   <g class="row" style="animation-delay:0.8s">
-
     <circle cx="26" cy="181" r="4.5" fill="#a855f7"/>
-
     <text x="42" y="186" font-size="13" fill="#cbd5e1" font-weight="600">CSS</text>
-
     <text x="396" y="186" text-anchor="end" font-size="13" fill="#a855f7" font-weight="700">4.0%</text>
-
     <rect x="140" y="178" width="170" height="8" rx="4" fill="#1e1e38"/>
-
     <rect x="140" y="178" width="6.8" height="8" rx="4" fill="#a855f7">
-
       <animate attributeName="width" from="0" to="6.8" dur="1.1s" begin="0.9s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-
     </rect>
-
   </g>
-
-
 
   <!-- ROW 4: JavaScript -->
-
   <g class="row" style="animation-delay:1.0s">
-
     <circle cx="26" cy="221" r="4.5" fill="#64748b"/>
-
     <text x="42" y="226" font-size="13" fill="#94a3b8" font-weight="600">JavaScript</text>
-
     <text x="396" y="226" text-anchor="end" font-size="13" fill="#94a3b8" font-weight="700">2.0%</text>
-
     <rect x="140" y="218" width="170" height="8" rx="4" fill="#1e1e38"/>
-
     <rect x="140" y="218" width="3.4" height="8" rx="4" fill="#64748b">
-
       <animate attributeName="width" from="0" to="3.4" dur="1.1s" begin="1.1s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-
     </rect>
-
   </g>
-
-
 
   <!-- Ambient Card Diagonal Shimmer sweep -->
-
   <g clip-path="url(#cardc)">
-
     <rect class="sh" x="0" y="0" width="100" height="282" fill="url(#shg)" transform="skewX(-20)"/>
-
   </g>
-
 </svg>
