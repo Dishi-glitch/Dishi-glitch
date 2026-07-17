@@ -15,7 +15,23 @@ I am a second-year engineering student navigating the spaces between complex pro
 * ⚡ **Core Stack:** Structured layouts built with C++, HTML/CSS, JavaScript, React, and Next.js.
 
 ---
+## 📊 Core Stack & Language Metrics
 
+<p align="center">
+  <img src="./langs.svg" alt="Dishi's Language Stack Distribution Balance" width="420px" />
+</p>
+
+---
+
+### 🛠️ Ecosystem Breakdown
+
+The layout above tracks the core linguistic fingerprint of my current codebase architectures:
+
+* 🎨 **Front-End Presentation (`HTML` / `CSS`):** Dominates the structural foundations, prioritizing semantic element layouts and optimized DOM trees.
+* ⚡ **Typed Logics (`TypeScript`):** Drives safe, predictive application states across components.
+* ⚙️ **Scripted Automation (`JavaScript`):** Handles lightweight scripting routines and dynamic runtime interactions.
+
+---
 ### 📊 Developer Analytics & Insights
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -33,13 +49,6 @@ I am a second-year engineering student navigating the spaces between complex pro
 
 ---
 
-### 🏆 Milestones & Achievements
-<p align="center">
-  <!-- Automated Achievement Trophies System Layout -->
-  <img src="./trophies.svg" alt="Dishi's Contribution Trophies Grid" width="100%" />
-</p>
-
----
 
 ### 🎮 Activity Stream
 <p align="center">
