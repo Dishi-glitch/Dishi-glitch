@@ -21,6 +21,20 @@ I am a second-year engineering student navigating the spaces between complex pro
   <img src="./langs.svg" alt="Dishi's Core Language Distribution Metrics" width="420" />
 </p>
 ---
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="middle" width="65%">
+      <h2>👋 Hello, I'm Dishi Neekhra</h2>
+      <p>A developer navigating the spaces between complex problem solving and high-aesthetic interface design.</p>
+      <p>Currently deep diving into <strong>Data Structures & Algorithms (DSA)</strong>, exploring <strong>Generative AI workflows</strong>, and crafting dark-themed, neon-accented system architectures.</p>
+    </td>
+    <td align="center" valign="middle" width="35%">
+      <!-- Swinging Lanyard Asset Call -->
+      <img src="./lanyard.svg?v=1.1" alt="Dishi's Tech Identity Badge" width="160" />
+    </td>
+  </tr>
+</table>
+---
 
 ### 📊 Developer Analytics & Insights
 
