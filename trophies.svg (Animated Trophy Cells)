@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" width="500" height="200">
+  <defs>
+    <linearGradient id="shineSweep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(0,180,216,0)"/>
+      <stop offset="50%" stop-color="rgba(0,180,216,0.3)"/>
+      <stop offset="100%" stop-color="rgba(0,180,216,0)"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd700"/>
+      <stop offset="100%" stop-color="#ff8c00"/>
+    </linearGradient>
+    <linearGradient id="silverGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e0e0e0"/>
+      <stop offset="100%" stop-color="#a0a0a0"/>
+    </linearGradient>
+    <linearGradient id="bronzeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#cd7f32"/>
+      <stop offset="100%" stop-color="#8b4513"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="500" height="200" fill="#0a1929" rx="16"/>
+  
+  <!-- Shine Sweep -->
+  <rect x="-500" y="0" width="500" height="200" fill="url(#shineSweep)">
+    <animate attributeName="x" values="-500;500" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Trophy 1 - Gold -->
+  <g transform="translate(50, 40)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.5s" fill="freeze"/>
+    <rect x="0" y="0" width="120" height="130" rx="10" fill="#0d2137" stroke="#ffd700" stroke-width="1"/>
+    <text x="60" y="40" text-anchor="middle" font-size="30">🏆</text>
+    <text x="60" y="70" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#ffd700" font-weight="bold">Gold</text>
+    <text x="60" y="90" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#80b0c8">Top Contributor</text>
+    <text x="60" y="115" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#ffd700">#1</text>
+  </g>
+  
+  <!-- Trophy 2 - Silver -->
+  <g transform="translate(190, 40)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1s" fill="freeze"/>
+    <rect x="0" y="0" width="120" height="130" rx="10" fill="#0d2137" stroke="#c0c0c0" stroke-width="1"/>
+    <text x="60" y="40" text-anchor="middle" font-size="30">🥈</text>
+    <text x="60" y="70" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#c0c0c0" font-weight="bold">Silver</text>
+    <text x="60" y="90" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#80b0c8">Quick Learner</text>
+    <text x="60" y="115" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#c0c0c0">#2</text>
+  </g>
+  
+  <!-- Trophy 3 - Bronze -->
+  <g transform="translate(330, 40)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.5s" fill="freeze"/>
+    <rect x="0" y="0" width="120" height="130" rx="10" fill="#0d2137" stroke="#cd7f32" stroke-width="1"/>
+    <text x="60" y="40" text-anchor="middle" font-size="30">🥉</text>
+    <text x="60" y="70" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#cd7f32" font-weight="bold">Bronze</text>
+    <text x="60" y="90" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#80b0c8">Rising Star</text>
+    <text x="60" y="115" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#cd7f32">#3</text>
+  </g>
+</svg>
