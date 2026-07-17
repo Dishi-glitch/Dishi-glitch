@@ -20,9 +20,11 @@ I am a second-year engineering student navigating the spaces between complex pro
 ![C++](https://img.shields.io/badge/C++-%239b5de5.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%23ff5d8f?style=for-the-badge&logo=python&logoColor=white) 
 <br> 
 
+
 <!-- Snake Game Repo View -->
+
 <div align="center"> 
-  <img src="https://raw.githubusercontent.com/Dishi-glitch/Dishi-glitch/output/snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 # 📊 GitHub Stats:
