@@ -18,9 +18,9 @@ I am a second-year engineering student navigating the spaces between complex pro
 ## 📊 Core Stack & Language Metrics
 
 <p align="center">
-  <img src="./langs.svg" alt="Dishi's Language Stack Distribution Balance" width="420px" />
+  <!-- Interactive Language Metrics Component -->
+  <img src="./langs.svg" alt="Dishi's Core Language Distribution Metrics" width="420px" />
 </p>
-
 ---
 
 ### 🛠️ Ecosystem Breakdown
