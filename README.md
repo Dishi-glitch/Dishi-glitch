@@ -56,10 +56,9 @@ I am a second-year engineering student navigating the spaces between complex pro
 
 ### 🎮 Activity Stream
 <p align="center">
-  <!-- GitHub Contribution Sandbox Grid Animation -->
-  <img src="./github-snake.yml" alt="Contribution Grid Snake Timeline Animation" width="100%" />
+  <!-- Pulling the compiled dark-theme snake directly from the output branch -->
+  <img src="https://raw.githubusercontent.com/Dishi-glitch/Dishi-glitch/output/snake.svg" alt="Contribution Grid Snake Timeline Animation" width="100%" />
 </p>
-
 ---
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
