@@ -18,8 +18,7 @@ I am a second-year engineering student navigating the spaces between complex pro
 ## 📊 Core Stack & Language Metrics
 
 <p align="center">
-  <!-- Interactive Language Metrics Component -->
-  <img src="./langs.svg" alt="Dishi's Core Language Distribution Metrics" width="420px" />
+  <img src="./langs.svg" alt="Dishi's Core Language Distribution Metrics" width="420" />
 </p>
 ---
 
