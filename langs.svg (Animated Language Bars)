@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <linearGradient id="htmlGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00b4d8"/>
+      <stop offset="100%" stop-color="#0077b6"/>
+    </linearGradient>
+    <linearGradient id="cssGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0077b6"/>
+      <stop offset="100%" stop-color="#023e8a"/>
+    </linearGradient>
+    <linearGradient id="jsGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#023e8a"/>
+      <stop offset="100%" stop-color="#00b4d8"/>
+    </linearGradient>
+    <linearGradient id="pyGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00b4d8"/>
+      <stop offset="100%" stop-color="#023e8a"/>
+    </linearGradient>
+    <linearGradient id="cppGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0077b6"/>
+      <stop offset="100%" stop-color="#00b4d8"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="400" height="300" fill="#0a1929" rx="16"/>
+  
+  <text x="200" y="40" text-anchor="middle" font-family="'Georgia', serif" font-size="18" font-weight="bold" fill="#00b4d8">Most Used Languages</text>
+  
+  <g font-family="'Courier New', monospace" font-size="12">
+    <!-- HTML -->
+    <g transform="translate(30, 80)">
+      <text x="0" y="0" fill="#80b0c8">HTML</text>
+      <text x="340" y="0" fill="#00b4d8" text-anchor="end">35%</text>
+      <rect x="0" y="8" width="340" height="12" rx="6" fill="#0d2137"/>
+      <rect x="0" y="8" width="0" height="12" rx="6" fill="url(#htmlGrad)">
+        <animate attributeName="width" values="0;119" dur="1.5s" fill="freeze"/>
+      </rect>
+    </g>
+    
+    <!-- CSS -->
+    <g transform="translate(30, 115)">
+      <text x="0" y="0" fill="#80b0c8">CSS</text>
+      <text x="340" y="0" fill="#00b4d8" text-anchor="end">25%</text>
+      <rect x="0" y="8" width="340" height="12" rx="6" fill="#0d2137"/>
+      <rect x="0" y="8" width="0" height="12" rx="6" fill="url(#cssGrad)">
+        <animate attributeName="width" values="0;85" dur="1.5s" begin="0.3s" fill="freeze"/>
+      </rect>
+    </g>
+    
+    <!-- JavaScript -->
+    <g transform="translate(30, 150)">
+      <text x="0" y="0" fill="#80b0c8">JavaScript</text>
+      <text x="340" y="0" fill="#00b4d8" text-anchor="end">20%</text>
+      <rect x="0" y="8" width="340" height="12" rx="6" fill="#0d2137"/>
+      <rect x="0" y="8" width="0" height="12" rx="6" fill="url(#jsGrad)">
+        <animate attributeName="width" values="0;68" dur="1.5s" begin="0.6s" fill="freeze"/>
+      </rect>
+    </g>
+    
+    <!-- Python -->
+    <g transform="translate(30, 185)">
+      <text x="0" y="0" fill="#80b0c8">Python</text>
+      <text x="340" y="0" fill="#00b4d8" text-anchor="end">12%</text>
+      <rect x="0" y="8" width="340" height="12" rx="6" fill="#0d2137"/>
+      <rect x="0" y="8" width="0" height="12" rx="6" fill="url(#pyGrad)">
+        <animate attributeName="width" values="0;41" dur="1.5s" begin="0.9s" fill="freeze"/>
+      </rect>
+    </g>
+    
+    <!-- C++ -->
+    <g transform="translate(30, 220)">
+      <text x="0" y="0" fill="#80b0c8">C++</text>
+      <text x="340" y="0" fill="#00b4d8" text-anchor="end">8%</text>
+      <rect x="0" y="8" width="340" height="12" rx="6" fill="#0d2137"/>
+      <rect x="0" y="8" width="0" height="12" rx="6" fill="url(#cppGrad)">
+        <animate attributeName="width" values="0;27" dur="1.5s" begin="1.2s" fill="freeze"/>
+      </rect>
+    </g>
+  </g>
+</svg>
