@@ -22,15 +22,6 @@ I am a second-year engineering student navigating the spaces between complex pro
 </p>
 ---
 
-### 🛠️ Ecosystem Breakdown
-
-The layout above tracks the core linguistic fingerprint of my current codebase architectures:
-
-* 🎨 **Front-End Presentation (`HTML` / `CSS`):** Dominates the structural foundations, prioritizing semantic element layouts and optimized DOM trees.
-* ⚡ **Typed Logics (`TypeScript`):** Drives safe, predictive application states across components.
-* ⚙️ **Scripted Automation (`JavaScript`):** Handles lightweight scripting routines and dynamic runtime interactions.
-
----
 ### 📊 Developer Analytics & Insights
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
