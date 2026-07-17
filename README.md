@@ -29,8 +29,8 @@ I am a second-year engineering student navigating the spaces between complex pro
       <p>Currently deep diving into <strong>Data Structures & Algorithms (DSA)</strong>, exploring <strong>Generative AI workflows</strong>, and crafting dark-themed, neon-accented system architectures.</p>
     </td>
     <td align="center" valign="middle" width="35%">
-      <!-- Swinging Lanyard Asset Call -->
-      <img src="./lanyard.svg?v=1.1" alt="Dishi's Tech Identity Badge" width="160" />
+      <!-- Using your exact file path: langs.svg -->
+      <img src="./langs.svg?v=1.2" alt="Dishi's Core Language Distribution Metrics" width="220" />
     </td>
   </tr>
 </table>
