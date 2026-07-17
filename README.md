@@ -15,25 +15,6 @@ I am a second-year engineering student navigating the spaces between complex pro
 * ⚡ **Core Stack:** Structured layouts built with C++, HTML/CSS, JavaScript, React, and Next.js.
 
 ---
-## 📊 Core Stack & Language Metrics
-
-<p align="center">
-  <img src="./langs.svg" alt="Dishi's Core Language Distribution Metrics" width="420" />
-</p>
----
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="middle" width="65%">
-      <h2>👋 Hello, I'm Dishi Neekhra</h2>
-      <p>A developer navigating the spaces between complex problem solving and high-aesthetic interface design.</p>
-      <p>Currently deep diving into <strong>Data Structures & Algorithms (DSA)</strong>, exploring <strong>Generative AI workflows</strong>, and crafting dark-themed, neon-accented system architectures.</p>
-    </td>
-    <td align="center" valign="middle" width="35%">
-      <!-- Using your exact file path: langs.svg -->
-      <img src="./langs.svg?v=1.2" alt="Dishi's Core Language Distribution Metrics" width="220" />
-    </td>
-  </tr>
-</table>
 ---# 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-%239b5de5.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2300f5d4?style=for-the-badge&logo=python&logoColor=050510) 
 <br> 
