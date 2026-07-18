@@ -1,4 +1,3 @@
-# Hi there, I'm Dishi Neekhra! 👋
 
 <p align="center">
   <!-- Primary Profile Header Asset -->
