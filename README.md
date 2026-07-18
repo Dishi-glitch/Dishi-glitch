@@ -29,11 +29,12 @@ I am a second-year engineering student navigating the spaces between complex pro
 # 📊 GitHub Stats:
 
 <!-- General Stats Card: Pink titles/icons with purple text -->
-<img src="https://github-readme-stats.shion.dev/api?username=Dishi-glitch&bg_color=0d1117&title_color=ff5d8f&icon_color=ff5d8f&text_color=9b5de5&hide_border=false" alt="Dishi's GitHub Stats" /><br/>
+<img src="https://github-readme-stats.shion.dev/api?username=Dishi-glitch&bg_color=0d1117&title_color=ff5d8f&icon_color=ff5d8f&text_color=9b5de5&hide_border=false" alt="Dishi's GitHub Stats" />
 
 <!-- Streak Stats Card: Using Tokyonight theme to force bright text/numbers -->
 <img src="https://streak-stats.demolab.com/?user=Dishi-glitch&theme=tokyonight&background=0d1117&ring=%239b5de5&fire=%23ff5d8f" alt="Dishi's Streak Stats" /><br/>
 
+[![Dishi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dishi_glitch&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph) <br/>
 <!-- Top Languages Card: Compact layout showing your top language distribution -->
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dishi-glitch&bg_color=0d1117&title_color=ff5d8f&text_color=9b5de5&hide_border=false&layout=compact" alt="Dishi's Top Languages" />
