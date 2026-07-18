@@ -47,3 +47,17 @@ I am a second-year engineering student navigating the spaces between complex pro
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dishi-glitch&bg_color=0d1117&title_color=ff5d8f&text_color=9b5de5&hide_border=false&layout=compact" alt="Dishi's Top Languages" />
 </div>
+
+## 🌐 Socials:
+
+<div align="left">
+  <a href="https://instagram.com/dxshii.neekhra" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff5d8f?style=for-the-badge&logo=instagram&logoColor=0d1117" alt="Instagram" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/dishi-neekhra-ba57b6378" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-9b5de5?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="LinkedIn" height="35" />
+  </a>
+  <a href="mailto:dishineekhra23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff5d8f?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email" height="35" />
+  </a>
+</div>
