@@ -30,20 +30,20 @@ I am a second-year engineering student navigating the spaces between complex pro
 
 <!-- Side-by-Side: General Stats and Streak Stats (Matching Pink/Purple) -->
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.shion.dev/api?username=Dishi-glitch&bg_color=0d1117&title_color=ff5d8f&icon_color=ff5d8f&text_color=9b5de5&hide_border=false" alt="Dishi's GitHub Stats" height="195" />
-  <img src="https://streak-stats.demolab.com/?user=Dishi-glitch&theme=tokyonight&background=0d1117&ring=%239b5de5&fire=%23ff5d8f&currStreakLabel=%23ff5d8f&sideNums=%239b5de5" alt="Dishi's Streak Stats" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Dishi-glitch&bg_color=0d1117&title_color=ff5d8f&icon_color=ff5d8f&text_color=9b5de5&hide_border=false" alt="Dishi's GitHub Stats" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=Dishi-glitch&theme=tokyonight&background=0d1117&ring=%239b5de5&fire=%23ff5d8f&currStreakLabel=%23ff5d8f&sideNums=%239b5de5" alt="Dishi's Streak Stats" height="195" />
 </div>
 
 <br/>
 
-<!-- Contribution Graph (Stable Server + Inline Scale Tweaks) -->
-<div align="center" style="margin: 20px 0; overflow: visible;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dishi-glitch&theme=tokyonight&bg_color=0d1117&border_radius=5&color_outline=%23ff5d8f&color_title=%23ff5d8f&color_calendar=%239b5de5" alt="Dishi's Contribution Graph" style="transform: scale(1.15); max-width: 100%;" />
+<!-- Contribution Graph (Stable Server, Fully Customized Aesthetic) -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dishi-glitch&theme=tokyonight&bg_color=0d1117&border_radius=5&color_outline=%23ff5d8f&color_title=%23ff5d8f&color_calendar=%239b5de5" alt="Dishi's Contribution Graph" />
 </div>
 
 <br/>
 
 <!-- Top Languages Card (Matching Pink/Purple, Compact) -->
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dishi-glitch&bg_color=0d1117&title_color=ff5d8f&text_color=9b5de5&hide_border=false&layout=compact" alt="Dishi's Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dishi-glitch&bg_color=0d1117&title_color=ff5d8f&text_color=9b5de5&hide_border=false&layout=compact" alt="Dishi's Top Languages" />
 </div>
