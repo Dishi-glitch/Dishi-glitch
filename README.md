@@ -36,9 +36,9 @@ I am a second-year engineering student navigating the spaces between complex pro
 
 <br/>
 
-<!-- Contribution Graph Alternative -->
+<!-- Contribution Graph (Ultra-Stable Alternative) -->
 <div align="center">
-  <img src="https://github-readme-metrics.vercel.app/api?username=Dishi-glitch&config=classic&theme=react" alt="Dishi's Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dishi-glitch&theme=chartreuse-dark" alt="Dishi's Contribution Graph" />
 </div>
 
 <br/>
