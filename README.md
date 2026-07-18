@@ -36,9 +36,9 @@ I am a second-year engineering student navigating the spaces between complex pro
 
 <br/>
 
-<!-- Contribution Graph -->
+<!-- Contribution Graph Alternative -->
 <div align="center">
-  [![Dishi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dishi-glitch&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://github-readme-metrics.vercel.app/api?username=Dishi-glitch&config=classic&theme=react" alt="Dishi's Activity Graph" />
 </div>
 
 <br/>
