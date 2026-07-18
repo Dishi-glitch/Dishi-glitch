@@ -28,13 +28,22 @@ I am a second-year engineering student navigating the spaces between complex pro
 
 # 📊 GitHub Stats:
 
-<!-- General Stats Card: Pink titles/icons with purple text -->
-<img src="https://github-readme-stats.shion.dev/api?username=Dishi-glitch&bg_color=0d1117&title_color=ff5d8f&icon_color=ff5d8f&text_color=9b5de5&hide_border=false" alt="Dishi's GitHub Stats" />
+<!-- Side-by-Side: General Stats and Streak Stats -->
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.shion.dev/api?username=Dishi-glitch&bg_color=0d1117&title_color=ff5d8f&icon_color=ff5d8f&text_color=9b5de5&hide_border=false" alt="Dishi's GitHub Stats" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=Dishi-glitch&theme=tokyonight&background=0d1117&ring=%239b5de5&fire=%23ff5d8f" alt="Dishi's Streak Stats" height="195" />
+</div>
 
-<!-- Streak Stats Card: Using Tokyonight theme to force bright text/numbers -->
-<img src="https://streak-stats.demolab.com/?user=Dishi-glitch&theme=tokyonight&background=0d1117&ring=%239b5de5&fire=%23ff5d8f" alt="Dishi's Streak Stats" /><br/>
+<br/>
 
-[![Dishi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dishi_glitch&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph) <br/>
-<!-- Top Languages Card: Compact layout showing your top language distribution -->
+<!-- Contribution Graph -->
+<div align="center">
+  [![Dishi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dishi-glitch&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dishi-glitch&bg_color=0d1117&title_color=ff5d8f&text_color=9b5de5&hide_border=false&layout=compact" alt="Dishi's Top Languages" />
+<br/>
+
+<!-- Top Languages Card -->
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dishi-glitch&bg_color=0d1117&title_color=ff5d8f&text_color=9b5de5&hide_border=false&layout=compact" alt="Dishi's Top Languages" />
+</div>
