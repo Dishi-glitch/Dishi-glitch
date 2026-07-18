@@ -25,6 +25,7 @@ I am a second-year engineering student navigating the spaces between complex pro
 <div align="center"> 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 # 📊 GitHub Stats:
 
 <!-- Side-by-Side: General Stats and Streak Stats (Matching Pink/Purple) -->
@@ -35,9 +36,9 @@ I am a second-year engineering student navigating the spaces between complex pro
 
 <br/>
 
-<!-- Large, Line-Only Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-metrics.vercel.app/api?username=Dishi-glitch&config=classic&theme=react&v=2" alt="Dishi's Activity Graph" width="95%" />
+<!-- Contribution Graph (Stable Server + Inline Scale Tweaks) -->
+<div align="center" style="margin: 20px 0; overflow: visible;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dishi-glitch&theme=tokyonight&bg_color=0d1117&border_radius=5&color_outline=%23ff5d8f&color_title=%23ff5d8f&color_calendar=%239b5de5" alt="Dishi's Contribution Graph" style="transform: scale(1.15); max-width: 100%;" />
 </div>
 
 <br/>
