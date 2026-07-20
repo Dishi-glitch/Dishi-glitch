@@ -37,8 +37,9 @@ I am a second-year engineering student navigating the spaces between complex pro
 <br/>
 
 <!-- Contribution Graph (Stable Server, Fully Customized Aesthetic) -->
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dishi-glitch&theme=tokyonight&bg_color=0d1117&border_radius=5&color_outline=%23ff5d8f&color_title=%23ff5d8f&color_calendar=%239b5de5" alt="Dishi's Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dishi-glitch&theme=tokyonight&bg_color=0d1117&border_radius=5&color_outline=%23ff5d8f&color_title=%23ff5d8f&color_calendar=%239b5de5&custom_title=Dishi's%20Contribution%20Graph" alt="Dishi's Contribution Graph" />
 </div>
 
 <br/>
