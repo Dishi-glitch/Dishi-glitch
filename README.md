@@ -9,7 +9,6 @@
 ### 💫 About Me
 I am a second-year engineering student navigating the spaces between complex problem solving and modern interface design. 
 
-* 💻 **Currently Deep Diving:** Data Structures & Algorithms (DSA) and building out system workflows.
 * 🤖 **Exploring:** Generative AI implementations and Machine Learning.
 * ⚡ **Core Stack:** Structured layouts built with C++, HTML/CSS, JavaScript, React, and Next.js.
 
