@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center"> 
   <!-- Primary Profile Header Asset -->
   <img src="./banner.svg" alt="Dishi's Tech Portfolio Banner" width="100%" />  
 </p> 
