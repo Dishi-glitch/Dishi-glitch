@@ -11,7 +11,7 @@ I am a second-year engineering student navigating the spaces between complex pro
 
 * 🤖 **Exploring:** Generative AI implementations and Machine Learning.
 * ⚡ **Frontend Stack:** Structured layouts built with C++, HTML/CSS, JavaScript, React and Next.js
-* ⚡ **ML Stack:** Python, NumPy
+* ⚡ **ML Stack:** Python, NumPy, Pandas, Matplotlib, Seaborn
 
   
 ---
