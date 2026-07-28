@@ -28,7 +28,7 @@ I am a second-year engineering student navigating the spaces between complex pro
 <!-- Side-by-Side: General Stats and Streak Stats (Matching Pink/Purple) -->
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.shion.dev/api?username=Dishi-glitch&bg_color=0d1117&title_color=ff5d8f&icon_color=ff5d8f&text_color=9b5de5&hide_border=false" alt="Dishi's GitHub Stats" height="195" />
-  <img src="https://streak-stats.demolab.com/?user=Dishi-glitch&theme=tokyonight&background=0d1117&ring=%239b5de5&fire=%23ff5d8f&currStreakLabel=%23ff5d8f&sideNums=%239b5de5" alt="Dishi's Streak Stats" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=Dishi-glitch&theme=tokyonight&background=0d1117&border=ff5d8f&stroke=ff5d8f&ring=9b5de5&fire=ff5d8f&currStreakLabel=ff5d8f&sideNums=9b5de5&sideLabels=9b5de5" alt="Dishi's Streak Stats" height="195" />
 </div>
 
 <br/>
