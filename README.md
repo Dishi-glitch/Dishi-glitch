@@ -34,7 +34,7 @@ I am a second-year engineering student navigating the spaces between complex pro
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dishi-glitch&theme=tokyonight&bg_color=0d1117&title_color=ff5d8f&text_color=9b5de5&icon_color=ff5d8f&border_color=ff5d8f&show_icons=true" alt="Dishi's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dishi-glitch&theme=tokyonight&background=0d1117&border=ff5d8f&stroke=ff5d8f&ring=ff5d8f&fire=ff5d8f&currStreakLabel=9b5de5" alt="Dishi's Streak Stats" />
 </div>
 
 <br/>
