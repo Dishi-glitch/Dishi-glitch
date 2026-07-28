@@ -34,7 +34,7 @@ I am a second-year engineering student navigating the spaces between complex pro
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dishi-glitch&theme=tokyonight&background=0d1117&border=ff5d8f&stroke=ff5d8f&ring=ff5d8f&fire=ff5d8f&currStreakLabel=9b5de5" alt="Dishi's Streak Stats" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br/>
