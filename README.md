@@ -32,13 +32,7 @@ I am a second-year engineering student navigating the spaces between complex pro
 </div>
 
 <br/>
-<div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dishi-glitch&theme=tokyonight&background=0d1117&border=ff5d8f&stroke=ff5d8f&ring=ff5d8f&fire=ff5d8f&currStreakLabel=9b5de5&sideLabels=9b5de5&dates=a0a0a0" alt="Dishi's GitHub Streak" width="49%" />
 
-  <!-- GitHub Overall Activity & Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dishi-glitch&theme=tokyonight&bg_color=0d1117&title_color=ff5d8f&text_color=9b5de5&icon_color=ff5d8f&border_color=ff5d8f&show_icons=true" alt="Dishi's Activity Stats" width="49%" />
-</div>
 
 <br/>
 
