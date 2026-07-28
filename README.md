@@ -33,9 +33,6 @@ I am a second-year engineering student navigating the spaces between complex pro
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <br/>
 
