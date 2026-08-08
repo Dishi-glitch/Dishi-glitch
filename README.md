@@ -5,7 +5,7 @@
 </p>  
  
 ---  
-
+ 
 ### 💫 About Me
 I am a second-year engineering student navigating the spaces between complex problem solving and modern interface design. 
 
