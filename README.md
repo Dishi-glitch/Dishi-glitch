@@ -10,7 +10,7 @@
 I am a second-year engineering student navigating the spaces between complex problem solving and modern interface design. 
 
 * 🤖 **Exploring:** Generative AI implementations and Machine Learning.
-* ⚡ **ML Stack:** Python, NumPy, Pandas, Matplotlib, Seaborn, Statistics
+* ⚡ **ML Stack:** Python, NumPy, Pandas, Matplotlib, Seaborn, Statistics, Data Cleaning and EOD
 * ⚡ **Frontend Stack:** Structured layouts built with C++, HTML/CSS, JavaScript, React and Next.js
 
 
