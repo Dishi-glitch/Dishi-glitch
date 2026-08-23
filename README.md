@@ -1,77 +1,76 @@
 <table>
 <tr>
 
-<td width="40%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
-<pre style="font-size: 5px; line-height: 5px; overflow: hidden;">
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\\+!!|jxaoU@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@U\\:   :!(:!!:://@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\[::    :'  ::   !/@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@g| :  |___.:::     ://@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@|   jxxxoou.    :  :[/@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@|::  jxxooojj: :   : '/o@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@|    jjjvxxu;_;;: ::   /@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@p|    ':_jixxxxxxx;::   ://@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@g:    |xxjxxxxxxx|      :|q@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@o_c    |xjjjjjxxxj       'rq@@o@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@p@p     '!jjjxxxj|   :    '!?XQq@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ob:       '!jjxx;:      :_::_gz/@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@UXnxu|         :jjxxcj;.._-g@@@@@@L:!/$@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Uevjjuugm\          jixxxxjj\@@@@@oooggo|.|::!a$o@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Uevj:|ggoo@}:::        :xxxxxxx\@@@oqg@@@@@@||y@g;jj//@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@U\jjj_gooooo@pi|        _:ixxxxxxgo@$xo@@o@@@@@@zso@|::;j/o@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@ejjigoooooooo@oyo|       _j|xxxxxq@@wg@o@@@@@@@@@@gxooogg@/j/o@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@m\jjugo@oooooog@@oo]       :!jxxxxxg@$g@@@o@@p@@@@@@@@poooooo@p:jo@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@\=j:|V5U$w$oooxg@@@o}u        :qoooogmg@@@@@@@@o@@@@@@@@gxooo@@o@|:j|@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@\\:: :::::::::::::::::!!:::::. :|uoooowg@@@@@o@@@o@@@@@@@@@xooooo@g|:jx@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@\jjg::: :: : :: ::::::::::::::: :jxxooxg@@@@@@o@@p@@@@@@@@@@xooooooo;yjx@@@@@@@@@
-@@@@@@@@@@@@@@@@@@\j\@$|:::::::: :: : : :: ::: ::: _jxxxj|o@@@@@oo@@q@o@@@@@@@@xooooo@oyijxg@@@@@@@@
-@@@@@@@@@@@@@@@@\c:\oo@o:: : : :: ::::::::::::::::|jxxxxj@@@@@@@@@@pio@@@@@@@@@xxooo@oox:jjg@@@@@@@@
-@@@@@@@@@@@@@@@\j:go@@oo|::::::::: : : : : :: : : :xxxxj|@@@@@@@@@o|qo@o@o@@@@@xxoooooo|:jj@@@@@@@@@
-@@@@@@@@@@@@@@pj:;goo@@oo|:: : ::::::::::::::::::xxxxi@@@@@@@ooooxogo@@@@o@@@xooooooo|jj|@@@@@@@@@
-@@@@@@@@@@@@@|j:|wooooooo|::::::: :    : :: : :::::|xxjqooooooo@@go@@@@oooo@@@pxooo@ooz:j:|@@@@@@@@@
-@@@@@@@@@@@@@|j:Sxoo@@ooox|: : :_____.     ::::::::|xxxxxoaq@@@@@@@@@@@@@@@o@|:jji@@@@@@@@@@
-@@@@@@@@@@@@g:::ioooo@oooo|:::\xxxxxxxxj_.   :::::::_jvvxxxx|@@@o@@@@@@@@o@@obgoooooocjji@@@@@@@@@@@
-@@@@@@@@@@@@|j:qxooo@ooooxxj_jxxxxxxxjjjjjjj_:  : :::.::::!:|o@oo@o@@o@o@o@wxoooooowjjjjg@@@@@@@@@@@
-@@@@@@@@@@@@|j:qxoooo@ooooxxxxxxxxxxjjjjjjjjjjj::   :     :!xxaooooo@oooe*xuoooooox:j!:g@@@@@@@@@@@@
-@@@@@@@@@@@@|jj|yxxooooooIjjxxxxxxjxjxjjjjjjjjjjj:::  :  :::=jjjjnnxjjjjxooooooxj|j:|\@@@@@@@@@@@@@
-@@@@@@@@@@@@@jj!&amp;|xoooooyjjjxxxxxxjj;j:j:jjjjjjjjjj:::::::::jjjjjjjjjjjxxxxxowxx|jj:\\@@@@@@@@@@@@@@
-@@@@@@@@@@@@@|j:_:/xxxoyjjjxxxjxjxjjj:::jjjjjjjjjjjjjj:::::;|jj:jjjjjjjxxxxxxxuyj::i@@@@xQmxq@@@@@@@
-@@@@@@@@@@@@@@;j:: !jxxjjjjxjjjxjjjjj::::::jjjjjjjjj:j:jiu__jj!:cjjj:::jjiggooU]:\@@gxxaxxjgUXsxo@@@
-@@@@@@@@@@@@@@@;:;_::jjjjjxxjjjxxjjjj__.::::::jjjj:j::::|xo1noexxu___;:::|Xnxuxu@U5waIjj)jjjjjjUQ@@@
-@@@@@@@@@@@@@@@g:!j::jjjjxxjjjjxjj|xxxxjj:: ::::::::::::::jj==jjjjjxoooxxugoownug@wxjj::_;j::jxa@@@@
-@@@@@@@@@@@@@@@@|:::jjjjjxxjjjjjjjxxxxxxjj::  ::::____u;:::::j;jj::jj=vv1anxggoZ@@UVvc::=x!::)jxxod@
-@@@@@@@@@@@@@@@@@y:jjjjjxxxjjjjjjixxxxxxj::::__juxooooo . .:  '-'!:::::::ue+~!: ^~jxj):::::jj;:ug@@@
-@@@@@@@@@@@@@@@@@|xjjjjxxxxjjjj::xxxxxjjjj:jjxxxxooooxx ' -!!          ::- ::::::::/$e:j:: :!|ggg@@@
-@@@@@@@@@@@@@@@@wjjjjjxjjxxjjj::|xxxxxjj::jjjjxxxxxxxx) :..:             .     :   :_.   :   :qg@@@@
-@@@@@@@@@@@@@@@xjjjjjxjjjxxjjj::xjjxxxjjj''!jjj=jjjjj::    '--:::_::     |xuu---uugyxxxgugggoooZUo@@
-@@@@@@@@@@@@@mxjjjjxxxjjjjjjj::jjjjxjjj:: ::::j:jj!::j:::::::.____,''-  :xoxooQ@@ooIxxxoo@o@oo@g_jn$
-@@@@@@@@@@@@\xjjjjjjjjjjjjjj::jjjjjjjjj::     :|::::uugggggog@oo@@@/::  ::oxooo@@@oxxxooo@@@ooo@@@/;
-@@@@@@@@@@@\jjjjjjjjjjjjjjj:::jjjjjjjjjj_-__::|:::::!a@@goggogo@o@@@//::::oxogoggopojxxooooooag@@@@@
-@@@@@@@@@@|jjjjjjjjjjjjjjj:::jjjjjjjjjjj@@@-|:i;j::::||@@oggoogg@@@@@//::jxugooogoo|::=v1xov=j|@@@@o
-@@@@@@@@@@xjjxjjxjjjjjjj:: ::jjjjjjjjjj:-+!: :jqj:::: |q@@oa@oooo@@@@@@/::[oo@@@@ovj::::jjj:jj|@@@@@
-@@@@@@@@p+=xxxxjjjjjjjjj::::jjjjjjjjjjj_---g:::js;::::'|@@@oa@aooo@@@@@@gjjjvVVVnjojj:::jjjjjxo@@@@m
-@@@@@@@@@;_xxxxxxjjjjjj:j::jjjjjjjjjjjj@@@@|:|u::|c;::.!/@@@$qpQQ$og@@@@@gjjjjxjjjgjjj:::j:jjjq@@UuZ
+<pre>
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@\\+!!|jxaoU@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@U\\:   :!(:!!:://@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@\[:     :'  ::   !/@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@g| :  |___.:::     ://@@@@@@@@@@
+@@@@@@@@@@@@@@@@@|   jxxxoou.    :  :[/@@@@@@@@@
+@@@@@@@@@@@@@@@@|::  jxxooojj: :   : '/o@@@@@@@@
+@@@@@@@@@@@@@@@@|    jjjvxxu;_;;: ::   /@@@@@@@@
+@@@@@@@@@@@@@@@p|    ':_jixxxxxxx;::   ://@@@@@@
+@@@@@@@@@@@@@@@@g:    |xxjxxxxxxx|      :|@@@@@@
+@@@@@@@@@@@@@@@@o_c    |xjjjjjxxxj       'rq@@@@
+@@@@@@@@@@@@@@@@p@p     '!jjjxxxj|   :    '!?X@@
+@@@@@@@@@@@@@@@@@ob:       '!jjxx;:      :_::_@
+@@@@@@@@@@@@@@UXnxu|         :jjxxcj;.._-g@@@@@
+@@@@@@@@@@@Uevjjuugm\          jixxxxjj\@@@@@@@
+@@@@@@@@@Uevj:|ggoo@}:::        :xxxxxxx\@@@@@@
+@@@@@@@U\jjj_gooooo@pi|        _:ixxxxxxgo@@@@
+@@@@@@ejjigoooooooo@oyo|       _j|xxxxxq@@@o@@@
+@@@@@m\jjugo@oooooog@@oo]       :!jxxxxxg@$g@@@
+@@@@\=j:|V5U$w$oooxg@@@}u        :qoooogmg@@@@
+@@@@\\:: :::::::::::::::::!!:::::. :|uooo@@@@@@
+@@@jjg::: :: : :: ::::::::::::::: :jxxooxg@@@@
+@@\j\@$|:::::::: :: : : :: ::: ::: _jxxxj|@@@@@
+@c:\oo@o:: : : :: ::::::::::::::::|jxxxxj@@@@@@
+@\j:go@@oo|::::::::: : : : : :: : : :xxxxj@@@@@
+@pj:;goo@@oo|:: : ::::::::::::::::::xxxxi@@@@@@
+@|j:|wooooooo|::::::: :    : :: : :::::|xxj@@@@
+@|j:Sxoo@@ooox|: : :_____.     ::::::::|xxxx@@@
+@g:::ioooo@oooo|:::\xxxxxxxxj_.   :::::::_jvv@@
+@|j:qxooo@ooooxxj_jxxxxxxxjjjjjjj_:  : :::.:::
+@|j:qxoooo@ooooxxxxxxxxxjjjjjjjjjjj::   :     
+@|jj|yxxooooooIjjxxxxxxjxjxjjjjjjjjjjj:::     
+@@jj!&amp;|xoooooyjjjxxxxxxjj;j:j:jjjjjjjjjj:::::
+@@|j:_:/xxxoyjjjxxxjxjxjjj:::jjjjjjjjjjjj::::
+@@@;j:: !jxxjjjjxjjjxjjjjj::::::jjjjjjjjj:j:
+@@@;:;_::jjjjjxxjjjxxjjjj__.::::::jjjj:j::::
+@@g:!j::jjjjxxjjjjxjj|xxxxjj:: :::::::::::::
+@@@@|:::jjjjjxxjjjjjjjxxxxxxjj::  ::::____
+@@@@@y:jjjjjxxxjjjjjjixxxxxxj::::__juxooooo
+@@@@@|xjjjjxxxxjjjj::xxxxxjjjj:jjxxxxooooxx
+@@@@wjjjjjxjjxxjjj::|xxxxxjj::jjjjxxxxxxxx
+@@@@xjjjjjxjjjxxjjj::xjjxxxjjj''!jjj=jjjjj
+@@@@mxjjjjxxxjjjjjj::jjjjxjjj:: ::::j:jj!
 </pre>
 
 </td>
 
-<td width="60%" valign="top">
+<td width="58%" valign="middle">
 
-## 💫 About Me
+<h2>💫 About Me</h2>
 
+<p>
 I am a second-year engineering student navigating the spaces between complex problem solving and modern interface design.
+</p>
 
-* 🤖 **Exploring:** AI and Machine Learning.
-* ⚡ **ML Stack:** Python, NumPy, Pandas, Matplotlib, Seaborn, Statistics, Data Cleaning, Analysis, EDA
-* ⚡ **Frontend Stack:** HTML/CSS, JavaScript, React and Next.js
+<ul>
+<li>🤖 <b>Exploring:</b> AI and Machine Learning.</li>
+<li>⚡ <b>ML Stack:</b> Python, NumPy, Pandas, Matplotlib, Seaborn, Statistics, Data Cleaning, Analysis, EDA</li>
+<li>🌐 <b>Frontend Stack:</b> HTML/CSS, JavaScript, React and Next.js</li>
+</ul>
 
 </td>
 
 </tr>
 </table>
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-%239b5de5.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%23ff5d8f?style=for-the-badge&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
