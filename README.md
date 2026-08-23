@@ -3,17 +3,27 @@
   <!-- Primary Profile Header Asset -->
   <img src="./banner.svg" alt="Dishi's Tech Portfolio Banner" width="100%" />   
 </p>  
- <img src="dark_mode.svg" alt="" />
----  
- 
+ <table>
+<tr>
+<td width="35%" align="center">
+
+<img src="dark_mode.svg" alt="" width="100%" />
+
+</td>
+
+<td width="65%">
+
 ### 💫 About Me
-I am a second-year engineering student navigating the spaces between complex problem solving and modern interface design. 
+
+I am a second-year engineering student navigating the spaces between complex problem solving and modern interface design.
 
 * 🤖 **Exploring:** AI and Machine Learning.
-* ⚡ **ML Stack:** Python, NumPy, Pandas, Matplotlib, Seaborn, Statistics, Data Cleaning, Analysing, EOD
-* ⚡ **Frontend Stack:** Decent layouts built with C++, HTML/CSS, JavaScript, React and Next.js
+* ⚡ **ML Stack:** Python, NumPy, Pandas, Matplotlib, Seaborn, Statistics, Data Cleaning, Analysis, EDA
+* ⚡ **Frontend Stack:** C++, HTML/CSS, JavaScript, React and Next.js
 
-
+</td>
+</tr>
+</table>
   
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-%239b5de5.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%23ff5d8f?style=for-the-badge&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
