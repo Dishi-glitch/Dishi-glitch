@@ -4,7 +4,56 @@
 <td width="45%" align="center">
 
 <pre>
-PASTE YOUR ASCII ART HERE
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\\+!!|jxaoU@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@U\\:   :!(:!!:://@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\[::    :'  ::   !/@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@g| :  |___.:::     ://@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@|   jxxxoou.    :  :[/@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@|::  jxxooojj: :   : '/o@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@|    jjjvxxu;_;;: ::   /@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@p|    ':_jixxxxxxx;::   ://@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@g:    |xxjxxxxxxx|      :|q@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@o_c    |xjjjjjxxxj       'rq@@o@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@p@p     '!jjjxxxj|   :    '!?XQq@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ob:       '!jjxx;:      :_::_gz/@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@UXnxu|         :jjxxcj;.._-g@@@@@@L:!/$@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Uevjjuugm\          jixxxxjj\@@@@@oooggo|.|::!a$o@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Uevj:|ggoo@}:::        :xxxxxxx\@@@oqg@@@@@@||y@g;jj//@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@U\jjj_gooooo@pi|        _:ixxxxxxgo@$xo@@o@@@@@@zso@|::;j/o@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@ejjigoooooooo@oyo|       _j|xxxxxq@@wg@o@@@@@@@@@@gxooogg@/j/o@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@m\jjugo@oooooog@@oo]       :!jxxxxxg@$g@@@o@@p@@@@@@@@poooooo@p:jo@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@\=j:|V5U$w$oooxg@@@o}u        :qoooogmg@@@@@@@@o@@@@@@@@gxooo@@o@|:j|@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@\\:: :::::::::::::::::!!:::::. :|uoooowg@@@@@o@@@o@@@@@@@@@xooooo@g|:jx@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@\jjg::: :: : :: ::::::::::::::: :jxxooxg@@@@@@o@@p@@@@@@@@@@xooooooo;yjx@@@@@@@@@
+@@@@@@@@@@@@@@@@@@\j\@$|:::::::: :: : : :: ::: ::: _jxxxj|o@@@@@oo@@q@o@@@@@@@@xooooo@oyijxg@@@@@@@@
+@@@@@@@@@@@@@@@@\c:\oo@o:: : : :: ::::::::::::::::|jxxxxj@@@@@@@@@@pio@@@@@@@@@xxooo@oox:jjg@@@@@@@@
+@@@@@@@@@@@@@@@\j:go@@oo|::::::::: : : : : :: : : :xxxxj|@@@@@@@@@o|qo@o@o@@@@@xxoooooo|:jj@@@@@@@@@
+@@@@@@@@@@@@@@pj:;goo@@oo|:: : : ::::::::::::::::::xxxxi@@@@@@@ooooxogo@@@@o@@@xooooooo|jj|@@@@@@@@@
+@@@@@@@@@@@@@|j:|wooooooo|::::::: :    : :: : :::::|xxjqooooooo@@go@@@@oooo@@@pxooo@ooz:j:|@@@@@@@@@
+@@@@@@@@@@@@@|j:Sxoo@@ooox|: : :_____.     ::::::::|xxxxxoaq@@@@@@@@@@@@@@@o@|xoooooox:jji@@@@@@@@@@
+@@@@@@@@@@@@g:::ioooo@oooo|:::\xxxxxxxxj_.   :::::::_jvvxxxx|@@@o@@@@@@@@o@@obgoooooocjji@@@@@@@@@@@
+@@@@@@@@@@@@|j:qxooo@ooooxxj_jxxxxxxxjjjjjjj_:  : :::.::::!:|o@oo@o@@o@o@o@wxoooooowjjjjg@@@@@@@@@@@
+@@@@@@@@@@@@|j:qxoooo@ooooxxxxxxxxxxjjjjjjjjjjj::   :     :!xxaooooo@oooe*xuoooooox:j!:g@@@@@@@@@@@@
+@@@@@@@@@@@@|jj|yxxooooooIjjxxxxxxjxjxjjjjjjjjjjj:::  : : :::=jjjjnnxjjjjxooooooxj|j:|\@@@@@@@@@@@@@
+@@@@@@@@@@@@@jj!&amp;|xoooooyjjjxxxxxxjj;j:j:jjjjjjjjjj:::::::::jjjjjjjjjjjxxxxxowxx|jj:\\@@@@@@@@@@@@@@
+@@@@@@@@@@@@@|j:_:/xxxoyjjjxxxjxjxjjj:::jjjjjjjjjjjjjj:::::;|jj:jjjjjjjxxxxxxxuyj::i@@@@xQmxq@@@@@@@
+@@@@@@@@@@@@@@;j:: !jxxjjjjxjjjxjjjjj::::::jjjjjjjjj:j:jiu__jj!:cjjj:::jjiggooU]:\@@gxxaxxjgUXsxo@@@
+@@@@@@@@@@@@@@@;:;_::jjjjjxxjjjxxjjjj__.::::::jjjj:j::::|xo1noexxu___;:::|Xnxuxu@U5waIjj)jjjjjjUQ@@@
+@@@@@@@@@@@@@@@g:!j::jjjjxxjjjjxjj|xxxxjj:: ::::::::::::::jj==jjjjjxoooxxugoownug@wxjj::_;j::jxa@@@@
+@@@@@@@@@@@@@@@@|:::jjjjjxxjjjjjjjxxxxxxjj::  ::::____u;:::::j;jj::jj=vv1anxggoZ@@UVvc::=x!::)jxxod@
+@@@@@@@@@@@@@@@@@y:jjjjjxxxjjjjjjixxxxxxj::::__juxooooo . .:  '-'!:::::::ue+~!: ^~jxj):::::jj;:ug@@@
+@@@@@@@@@@@@@@@@@|xjjjjxxxxjjjj::xxxxxjjjj:jjxxxxooooxx ' -!!          ::- ::::::::/$e:j:: :!|ggg@@@
+@@@@@@@@@@@@@@@@wjjjjjxjjxxjjj::|xxxxxjj::jjjjxxxxxxxx) :..:             .     :   :_.   :   :qg@@@@
+@@@@@@@@@@@@@@@xjjjjjxjjjxxjjj::xjjxxxjjj''!jjj=jjjjj::    '--:::_::     |xuu---uugyxxxgugggoooZUo@@
+@@@@@@@@@@@@@mxjjjjxxxjjjjjjj::jjjjxjjj:: ::::j:jj!::j:::::::.____,''-  :xoxooQ@@ooIxxxoo@o@oo@g_jn$
+@@@@@@@@@@@@\xjjjjjjjjjjjjjj::jjjjjjjjj::     :|::::uugggggog@oo@@@/::  ::oxooo@@@oxxxooo@@@ooo@@@/;
+@@@@@@@@@@@\jjjjjjjjjjjjjjj:::jjjjjjjjjj_-__::|:::::!a@@goggogo@o@@@//::::oxogoggopojxxooooooag@@@@@
+@@@@@@@@@@|jjjjjjjjjjjjjjj:::jjjjjjjjjjj@@@-|:i;j::::||@@oggoogg@@@@@//::jxugooogoo|::=v1xov=j|@@@@o
+@@@@@@@@@@xjjxjjxjjjjjjj:: ::jjjjjjjjjj:-+!: :jqj:::: |q@@oa@oooo@@@@@@/::[oo@@@@ovj::::jjj:jj|@@@@@
+@@@@@@@@p+=xxxxjjjjjjjjj::::jjjjjjjjjjj_---g:::js;::::'|@@@oa@aooo@@@@@@gjjjvVVVnjojj:::jjjjjxo@@@@m
+@@@@@@@@@;_xxxxxxjjjjjj:j::jjjjjjjjjjjj@@@@|:|u::|c;::.!/@@@$qpQQ$og@@@@@gjjjjxjjjgjjj:::j:jjjq@@UuZ
 </pre>
 
 </td>
