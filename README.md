@@ -3,7 +3,11 @@
   <!-- Primary Profile Header Asset -->
   <img src="./banner.svg" alt="Dishi's Tech Portfolio Banner" width="100%" />   
 </p>  
- 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Dishi-glitch's GitHub profile" src="dark_mode.svg" />
+</picture>
 ---  
  
 ### 💫 About Me
